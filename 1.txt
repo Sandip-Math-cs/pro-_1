@@ -1,0 +1,10 @@
+Good to see that we can create a file using cat command
+cat > (file-name).
+
+To exit from this use ctrl+d But don't use cat to edit any files, if you use cat, empty file will replace the existing files.
+
+Good Luck
+
+WOW!
+we can't edit,  but can add data to the existing file using,
+cat >> (existing file)
